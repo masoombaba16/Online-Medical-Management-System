@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/medical",
+    "proud_uri": "mysql://root:@localhost/medical",
+    "fb_url":"https://www.facebook.com/login/identify/?ctx=recover",
+    "tw_url":"https://www.facebook.com/login/identify/?ctx=recover",
+    "inst_url":"https://www.facebook.com/login/identify/?ctx=recover",
+    "blog_name": "WELCOME",
+    "headname": "MEDICAL SUPPLY MANAGEMENT",
+    "user": "test",
+    "password": "test",
+    "login_image": "aple.jpg"
+
+  }
+}
